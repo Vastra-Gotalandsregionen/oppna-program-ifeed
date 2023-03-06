@@ -152,7 +152,7 @@
   <properties>
     <apache.cxf.version>3.1.6</apache.cxf.version>
 <!--    <spring.fw.version>4.3.12.RELEASE</spring.fw.version>-->
-    <spring.fw.version>5.3.19</spring.fw.version>
+    <spring.fw.version>5.3.20</spring.fw.version>
     <!--<liferay.version>6.2.10.15</liferay.version>-->
     <!--<liferay.version>2.46.0</liferay.version>-->
     <hibernate.version>5.4.8.Final</hibernate.version>
